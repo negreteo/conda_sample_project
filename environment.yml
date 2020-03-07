@@ -1,4 +1,4 @@
-name: /Users/negreteo/Projects/conda_sample_project/env
+name: conda-sample-env
 channels:
   - defaults
 dependencies:
@@ -101,5 +101,5 @@ dependencies:
   - zeromq=4.3.1=h0a44026_3
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h1de35cc_3
-prefix: /Users/negreteo/Projects/conda_sample_project/env
+prefix: /Users/negreteo/miniconda3/envs/conda-sample-env
 
